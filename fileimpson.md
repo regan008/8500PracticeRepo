@@ -1,1 +1,14 @@
-THOMASTopic:HistoriographyWhat debates is this book intervening in? What does it add to/challenge in these conversations?OrganizationIs it thematic chronological, innovative in any way? What can we learn by closely studying the table of contents about the hierarchy of the bookÕs argument, or by looking at the chaptersÕ internal structure?MethodologyWhat methods does this book use? Which archives? What approach does it take to analyzing its sources?ArgumentSo What? Or Stakes/SignificanceFor readers who have no interest in the specifics of the topic of even the argument, why would this book be useful?
+THOMAS
+Topic:
+Historiography
+What debates is this book intervening in? What does it add to/challenge in these conversations?
+Organization
+Is it thematic chronological, innovative in any way? What can we learn by closely studying the table of contents about the hierarchy of the bookï¿½s argument, or by looking at the chaptersï¿½ internal structure?
+Methodology
+What methods does this book use? Which archives? What approach does it take to analyzing its sources?
+Argument
+So What? Or Stakes/Significance
+For readers who have no interest in the specifics of the topic of even the argument, why would this book be useful?
+
+
+# Hello from Dr. Burd
